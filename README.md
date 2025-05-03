@@ -14,5 +14,5 @@ conda activate book
 ```
 ### STEP 02 - install the requirements
 ```bash
-pip install -r requirement.txt 
+pip install -r requirements.txt 
 ```

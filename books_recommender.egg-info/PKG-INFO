@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: books_recommender
+Version: 0.0.1
+Summary: A small local packages for ML based books recommendations
+Home-page: https://github.com/entbappy/ML-Based-Book-Recommender-System
+Author: ABDUL MOEEZ
+Author-email: abdulmoeez2708@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# End-to-End-Book-Recommender-System
+
+# How to run?
+### STEPS:
+
+### STEP 01 - Create a conda environment after opening the respositry
+
+```bash
+conda create -n book python=3.7.10 -y
+```
+
+```bash
+conda activate book
+```
+### STEP 02 - install the requirements
+```bash
+pip install -r requirements.txt 
+```
